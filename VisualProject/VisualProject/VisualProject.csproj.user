@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add_Movie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_Session.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movie_Operations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sales_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seans_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Cinema.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
